@@ -1,0 +1,48 @@
+{
+   "total" : 1,
+   "items" : [
+      {
+         "edh_geography_uri" : "http://edh-www.adw.uni-heidelberg.de/edh/geographie/7852",
+         "findspot_ancient" : "Colonia Claudia Ara Agrippinensium",
+         "width" : "41 cm",
+         "id" : "HD001278",
+         "language" : "Latin",
+         "work_status" : "provisional",
+         "literature" : "AE 1984, 0655. (B); B. Galsterer - H. Galsterer, in: EpStud 13 (Köln 1983) 177-178, Nr. 6; Abb. 6. - AE 1984.",
+         "province_label" : "Germania inferior",
+         "material" : "limestone: rocks - clastic sediments",
+         "present_location" : "Köln, Röm.-Germ. Mus.",
+         "people" : [
+            {
+               "person_id" : "1",
+               "nomen" : "[---]udius",
+               "praenomen" : "M.",
+               "gender" : "male",
+               "cognomen" : "Acceptus+",
+               "name" : "M. [---]udius Accept[us]"
+            }
+         ],
+         "findspot" : "Vom Domhof, auf Kippe Gremberg aufgelesen",
+         "not_after" : "0230",
+         "transcription" : "Matribus Sueb[i]s / Sidinis M(arcus) / [--]udius Accept[us] / v(otum) s(olvit) l(ibens) m(erito)",
+         "trismegistos_uri" : "http://www.trismegistos.org/text/208731",
+         "depth" : "19 cm",
+         "last_update" : "2006-09-26",
+         "findspot_modern" : "Köln",
+         "diplomatic_text" : "MATRIBVS SVEB[ ]S / SIDINIS M / [ ]VDIVS ACCEPT[ ] / V S L M",
+         "type_of_inscription" : "votive inscription",
+         "commentary" : " Gleiche Werkstatt wie Galsterer, Steininschriften Nr. 94 u. 108. (B): Nomen wohl [F]udius, [L]udius oder [R]udius, so Galsterer.",
+         "religion" : "names of pagan deities",
+         "type_of_monument" : "altar",
+         "responsible_individual" : "Feraudi",
+         "letter_size" : "2.8-2.2 cm",
+         "year_of_find" : "before 1981",
+         "uri" : "http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001278",
+         "height" : "42.5 cm",
+         "modern_region" : "Nordrhein-Westfalen",
+         "not_before" : "0201",
+         "country" : "Germany"
+      }
+   ],
+   "limit" : "20"
+}
