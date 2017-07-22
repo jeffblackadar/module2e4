@@ -1,0 +1,120 @@
+{
+  "key": "oocihm.9_08900"
+}
+{
+  "key": "oop.debates_CDC1706_03"
+}
+{
+  "key": "oop.debates_CDC1601_02"
+}
+{
+  "key": "oop.debates_CDC1702_02"
+}
+{
+  "key": "oop.debates_CDC1804_01"
+}
+{
+  "key": "oop.debates_CDC1801_01"
+}
+{
+  "key": "oop.debates_CDC1801_02"
+}
+{
+  "key": "oop.debates_CDC1706_01"
+}
+{
+  "key": "oop.debates_SOC1303_01"
+}
+{
+  "key": "oop.debates_SOC1602_01"
+}
+{
+  "key": "oop.debates_SDC1602_01"
+}
+{
+  "key": "oop.HOC_1305_58_01"
+}
+{
+  "key": "oop.HOC_1305_58_01_A01"
+}
+{
+  "key": "oop.HOC_Index_1916_1930"
+}
+{
+  "key": "manitobia.023-LMB-1925-01-21-001-SINGLE"
+}
+{
+  "key": "oop.debates_SDC1303_01"
+}
+{
+  "key": "ooe.b4266298F_002"
+}
+{
+  "key": "ooe.b4072157E"
+}
+{
+  "key": "oop.debates_HOC1601_02"
+}
+{
+  "key": "oop.debates_HOC1305_05"
+}
+{
+  "key": "oop.debates_CDC1206_04"
+}
+{
+  "key": "oop.debates_SOC1207_01"
+}
+{
+  "key": "oop.debates_SOC1206_01"
+}
+{
+  "key": "oop.debates_SOC1205_01"
+}
+{
+  "key": "oop.debates_SDC1205_01"
+}
+{
+  "key": "oop.debates_SDC1206_01"
+}
+{
+  "key": "oop.debates_SDC1207_01"
+}
+{
+  "key": "manitobia.023-LMB-1914-04-15-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LMB-1916-02-02-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LMB-1917-08-08-001-SINGLE"
+}
+{
+  "key": "oop.debates_CDC1206_04"
+}
+{
+  "key": "oop.debates_SOC1207_01"
+}
+{
+  "key": "oop.debates_SOC1206_01"
+}
+{
+  "key": "oop.debates_SOC1205_01"
+}
+{
+  "key": "oop.debates_SDC1205_01"
+}
+{
+  "key": "oop.debates_SDC1206_01"
+}
+{
+  "key": "oop.debates_SDC1207_01"
+}
+{
+  "key": "manitobia.023-LMB-1914-04-15-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LMB-1916-02-02-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LMB-1917-08-08-001-SINGLE"
+}
