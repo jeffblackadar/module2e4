@@ -1,3 +1,7 @@
+# This program is from Ian Milligan's example at:
+# https://ianmilligan.ca/api-example-sh/
+# Thank you for providing this.
+
 #! /bin/bash
 
 # clean up from the previous session
